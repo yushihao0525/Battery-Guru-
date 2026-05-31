@@ -4,4 +4,5 @@ Battery Guru 是一款智能电池管理工具，可监测电池健康、分析�
 有新版发布时定时更新有可能非破解版.
 
 停止更新更新太快了，请去谷歌商店自行下载最新版.如果你想破解VIP请在lsp仓库中搜索Newhookvip或者一下链接https://modules.lsposed.org/module/top.hookvip.pro/
+或者在最新的发布中下载我添加了Newhookvip的安装包
 需要root需要安装lsp模块和Zygisk Next模块
